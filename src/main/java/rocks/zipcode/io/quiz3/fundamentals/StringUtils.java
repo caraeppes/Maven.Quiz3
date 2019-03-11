@@ -15,8 +15,6 @@ public class StringUtils {
     }
 
     public static Boolean isCharacterAtIndex(String baseString, Character characterToCheckFor, Integer indexOfString) {
-        baseString = baseString.toLowerCase();
-
         if(baseString.charAt(indexOfString) == characterToCheckFor){
             return true;
         }

@@ -1,9 +1,5 @@
 package rocks.zipcode.io.quiz3.fundamentals;
 
-import java.util.Arrays;
-
-import static rocks.zipcode.io.quiz3.fundamentals.StringUtils.getAllSubStrings;
-import static rocks.zipcode.io.quiz3.fundamentals.StringUtils.getNumberOfSubStrings;
 import static rocks.zipcode.io.quiz3.fundamentals.VowelUtils.*;
 
 /**
